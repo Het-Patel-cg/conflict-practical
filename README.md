@@ -1,1 +1,5 @@
+3
 oooo circ
+=======
+THIS FOR PRACTICE PURPOSE DON'T TAKE IT SERIOUSLY
+ main
